@@ -1,4 +1,4 @@
-import 
+import.lang.Math;
 public class Pythagorean {
     public double calculateHypotenuse(int A, int B) {
         // the hypotenuse is the side across the right angle.
